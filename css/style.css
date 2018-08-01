@@ -1,0 +1,71 @@
+body {
+  background-color: lightpink;
+  font-family: sans-serif;
+}
+
+.intro {
+  font-family: cursive;
+}
+
+.intro h1 {
+  font-style: bold;
+  font-size: 75px;
+}
+
+.intro p {
+  font-size: 30px;
+}
+
+.cats {
+  border-style: dotted;
+  border-color: blue;
+  border-width: 5px;
+  padding: 4px;
+  float: left;
+  width: 45%;
+  text-align: center;
+  margin: 5px;
+}
+
+.cats img {
+  width: 100%;
+}
+
+.cats h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  color: red;
+  font-size: 40px;
+}
+
+.cats p {
+  font-size: 25px;
+  color: green;
+}
+
+.dogs {
+  border-style: solid;
+  border-color: purple;
+  border-width: 10px;
+  padding: 4px;
+  float: left;
+  width: 45%;
+  text-align: center;
+  margin: 5px;
+}
+
+.dogs img {
+  width: 100%;
+}
+
+.dogs h1 {
+  font-weight: bolder;
+  font-family: monospace;
+  color: yellow;
+  font-size: 40px;
+}
+
+.dogs p {
+  font-size: 25px;
+  color: hotpink;
+}
